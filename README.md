@@ -100,6 +100,7 @@ To complete this part of the assignment, you will need to do the following:
 
 - Create a heat map that displays the humidity for every city from Part 1, as in the following image:
 
+![heat map](https://github.com/evz5050/python-api-challenge/blob/main/heatmap.png)
 
 
 - Narrow down the DataFrame to find your ideal weather condition. For example:
