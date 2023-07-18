@@ -128,7 +128,7 @@ To complete this part of the assignment, you will need to do the following:
 
 - Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
 
-
+![hotels map](https://github.com/evz5050/python-api-challenge/blob/main/hotel_map.png)
 
 As final considerations:
 
