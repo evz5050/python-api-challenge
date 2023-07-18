@@ -38,8 +38,8 @@ Before we add our files to GitHub, let's add api_keys.py to the .gitignore file.
 
 
 
-# Adding config.py file.
-api_keys.py
+- Adding config.py file.
+- api_keys.py
 
 
 
